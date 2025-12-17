@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🎮 GIT ADVENTURE GAME 🎮"
+echo "🎮 GIT ADVENTURE GAME BY SAKIR🎮"
 echo "========================"
 echo ""
 echo "Commands:"
