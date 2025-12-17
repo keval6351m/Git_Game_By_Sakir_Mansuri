@@ -1,0 +1,22 @@
+=== LEVEL 2: TRACK CHANGES ===
+
+GOAL: Learn to modify and track files
+
+TASKS:
+1. Check status:
+   git status
+   
+2. Add to story:
+   echo "The hero entered the forest." >> story.txt
+   
+3. See changes:
+   git diff
+   
+4. Stage changes:
+   git add story.txt
+   
+5. Commit:
+   git commit -m "Hero enters forest"
+
+COMPLETE WHEN:
+echo "LEVEL2_DONE" > level2.check

@@ -1,0 +1,26 @@
+=== LEVEL 3: BRANCHING ===
+
+GOAL: Create and merge branches
+
+TASKS:
+1. Create new branch:
+   git checkout -b magic-spell
+   
+2. Add magic:
+   echo "Wingardium Leviosa!" > spell.txt
+   
+3. Stage & commit:
+   git add spell.txt
+   git commit -m "Add magic spell"
+   
+4. Go back to main:
+   git checkout main
+   
+5. Merge branches:
+   git merge magic-spell
+   
+6. Delete branch:
+   git branch -d magic-spell
+
+COMPLETE WHEN:
+echo "LEVEL3_DONE" > level3.check

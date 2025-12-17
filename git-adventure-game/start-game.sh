@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "🎮 GIT ADVENTURE GAME 🎮"
+echo "========================"
+echo ""
+echo "Commands:"
+echo "  ./start-game.sh    - Start game"
+echo "  cat levels/level1.txt - Read level 1"
+echo "  ./check-game.sh    - Check progress"
+echo "  ./git-help.sh      - Get help"
+echo ""
+echo "📖 Read level 1: cat levels/level1.txt"
+echo "▶️  Start with: git config user.name YourName"

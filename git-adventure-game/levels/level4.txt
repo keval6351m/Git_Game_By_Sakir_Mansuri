@@ -1,0 +1,20 @@
+=== LEVEL 4: REMOTE REPOSITORY ===
+
+GOAL: Connect to GitHub (optional)
+
+TASKS:
+OPTION A (With GitHub):
+1. Create repo at github.com/new
+2. Connect it:
+   git remote add origin YOUR-REPO-URL
+3. Push code:
+   git push -u origin main
+
+OPTION B (Without GitHub):
+1. Create backup remote:
+   git remote add backup ../backup-folder
+2. Make tag:
+   git tag v1.0
+
+COMPLETE WHEN:
+echo "LEVEL4_DONE" > level4.check

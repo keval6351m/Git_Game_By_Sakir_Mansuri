@@ -1,0 +1,19 @@
+=== LEVEL 5: FINAL BOSS ===
+
+GOAL: Master Git commands
+
+TASKS:
+1. View history:
+   git log --oneline
+   
+2. Create release tag:
+   git tag -a v2.0 -m "Game Complete"
+   
+3. View all tags:
+   git tag
+   
+4. Check your work:
+   ls -la
+
+COMPLETE WHEN:
+echo "LEVEL5_DONE" > level5.check
